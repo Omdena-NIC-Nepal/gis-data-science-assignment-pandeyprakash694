@@ -1,0 +1,14 @@
+numpy
+pandas
+geopandas
+matplotlib
+seaborn
+rasterio
+jupyter
+notebook
+folium
+fiona
+shapely
+contextily
+rasterstats
+descartes
